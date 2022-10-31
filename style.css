@@ -1,0 +1,202 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.main{
+    margin: 0px 20px;
+}
+
+/* navigation bar */
+.navspace{
+    margin: 0px 15px;
+}
+
+/* slider 1 */
+#sdiscount{
+    color: blue;
+}
+.container-slider .carousel-caption h1{
+    font-size: 70px;
+}
+.container-slider .carousel-caption p{
+    font-size: 20px;
+}
+.container-slider .slider1-text{
+    display: inline-block;
+    top: -30px;    
+    margin-top: 220px;
+    margin-right: 350px;
+    letter-spacing: 5px;
+}
+
+/* sevices */
+.btnspace{
+    margin: 0px 10px;
+}
+
+/* container items */
+.container-options{
+    margin: 15px 0px;
+}
+.badge{
+    padding: 15px;
+    margin-left: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.bi2{
+    font-size: 20px;
+}
+.cardm{
+    display: inline-block;
+    width: 10rem;
+    flex-wrap: wrap;
+    margin: 15px 25px;
+    border: 0px;
+}
+
+/* catalog slider */
+.carousel-indicators .active{
+    background-color: orange;
+}
+.carousel-item img{
+    height: 670px;
+    display: flex;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: skyblue;
+    padding: 20px;
+}
+.container-catalog .btn-shop{
+    display: inline-block;
+    background-color: greenyellow;
+    color: green;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.card-insta{
+    margin: 10px;
+}
+
+/* scroll bar */
+.scroll-bar{
+    display: inline-block;
+    border: 0px;
+}
+.container-products{
+    box-sizing: border-box;
+}
+.card-products{
+    margin: 50px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 0px;
+}
+
+/* footer */
+.footer .carousel-item .person{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    
+}
+.carousel-caption{
+    display: inline-block;
+}
+
+.text-block {
+    position: absolute;
+    top: 15%;
+   right: 20%;
+    left: 20%;;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+  }
+  .strip{
+    display: flex;
+  }
+  .button {
+    background-color: #252fe9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+.button2 {
+    background-color: #2dabd5;
+} 
+.button3 {
+    background-color: #c4239c;
+} 
+.button4 {
+    background-color: #af4996;
+    color: black;
+} 
+.button5 {
+    background-color: #da1919;
+} 
+
+.final-text-block {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+    left: 20%;;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+  }
+
+  .circle-buttons {
+    display: flex;
+}
+.c1c, .c2c, .c3c
+ {
+    display: flex;
+    margin: 2px 10px 0 20px;
+    flex: 100%;
+    padding: 10px;
+    max-height: 1%;
+    max-width: 1%;
+    border-radius: 50%;
+}
+
+.c1c {
+    background-color: rgb(39, 170, 231);
+}
+
+.c2c {
+    background-color: rgb(235, 53, 53);
+}
+
+.c3c {
+    background-color: yellow;
+}
+
+ul{
+    margin-top: 20px;
+    list-style: none;
+    display: inline-block;
+}
+li{
+    display: inline-block;
+}
+.payment{
+    height:50px ;
+    width: 50px;
+}
